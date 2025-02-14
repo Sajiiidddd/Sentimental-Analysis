@@ -48,4 +48,11 @@ python Text\ Text Analysis.py
 ## 📝 Output
 The final sentiment analysis results are stored in **Output.xlsx**, which includes URL IDs, sentiment scores, and readability metrics.
 
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👤 Repository Owner
+Maintained by [Sajid Tamboli] - feel free to reach out for collaboration!
+
+## 🤝 Contributing
+Feel free to open an issue or submit a pull request for improvements!
